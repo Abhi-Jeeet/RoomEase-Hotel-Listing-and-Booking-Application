@@ -267,30 +267,4 @@ VITE_API_URL=http://localhost:5000
 2. Deploy to platforms like Vercel, Netlify, or GitHub Pages
 3. Update the API URL in environment variables
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Express.js for the robust backend framework
-- MongoDB for the flexible database solution
-- Tailwind CSS for the utility-first CSS framework
-- All open-source contributors who made this project possible
-
----
-
 **RoomEase** - Making hotel booking simple and elegant! 🏨✨
